@@ -220,7 +220,7 @@
 
 %% startup
 clc
-clear variables
+%clear variables
 
 addpath('Basic functions')
 addpath('Custom')
